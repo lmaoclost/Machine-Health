@@ -6,9 +6,9 @@ A Study project that create a app to predict a probability of having diabetes wi
 ### Mobile
 <div align="center">
   <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-    <img alt="initialPage" src="https://github.com/lmaoclost/Machine-Health/blob/master/initialPage.jpg" width="250px">
-    <img alt="diabetesForm" src="https://github.com/lmaoclost/Machine-Health/blob/master/diabetesForm.jpg" width="250px">
-    <img alt="diabetesResult" src="https://github.com/lmaoclost/Machine-Health/blob/master/diabetesResult.jpg" width="250px">
+    <img alt="initialPage" src="https://github.com/lmaoclost/Machine-Health/blob/master/.github/initialPage.jpg" width="250px">
+    <img alt="diabetesForm" src="https://github.com/lmaoclost/Machine-Health/blob/master/.github/diabetesForm.jpg" width="250px">
+    <img alt="diabetesResult" src="https://github.com/lmaoclost/Machine-Health/blob/master/.github/diabetesResult.jpg" width="250px">
   </div>
 </div>
 
