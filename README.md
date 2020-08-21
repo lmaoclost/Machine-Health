@@ -18,13 +18,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python, Anaconda, [Node](https://nodejs.org/en/download/), [Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable), [Expo](https://docs.expo.io/get-started/installation/) and a text editor. This project was developed using VSCode on Ubuntu.
+[Anaconda](https://www.anaconda.com/products/individual), [Node](https://nodejs.org/en/download/), [Yarn](https://classic.yarnpkg.com/en/docs/install#debian-stable), [Expo](https://docs.expo.io/get-started/installation/) and a text editor. This project was developed using VSCode on Ubuntu.
 
-### About Machine Learning
+### Machine Learning
+This Project was built with Anaconda 2020-02 which is machine learning toolkit. It was installed using [Python](https://www.python.org/) Version Management called [pyenv](https://github.com/pyenv/pyenv).
 
-### About App
+The used database was selected from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) which is a Indian database about diabetes. It was used Gradient Bossting model for classification. If you wish to see the process to build the machine model algorithm you can access at [Kaggle](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90) or [Github](https://github.com/juniorcl/machinelearning-algorithm-studies/blob/master/SupervisedLearning/Classification/DiabetesPrediction-GradientBoostingClassifier.ipynb).
 
-## BackEnd
+
+
+### BackEnd
 Go to a terminal.
 ```
 $ cd /server
@@ -32,9 +35,9 @@ $ yarn
 $ yarn start
 ```
 
-The Backend will be running in the http://localhost:3000. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-08-21.json).
+The Backend will be running in the http://localhost:3000. To test the routes, I'm leaving this [Insomnia file](Insomnia_2020-08-21.json).
 
-## Mobile
+### Mobile
 
 This project uses Expo, so make sure that you have it. Go to [Api.ts](https://github.com/lmaoclost/Machine-Health/blob/master/mobile/src/services/api.ts) and change the baseURL to the server IP. If you're running the backend on localhost, the IP has the be one in the expo page.
 ```
@@ -47,10 +50,11 @@ Go to the expo page and connect.
 ## Built With
 
 * ### Data Science
-    * [Python](https://www.python.org/) - Language for Data Science
+    * [Anaconda](https://www.anaconda.com/products/individual) - Data science toolkit
     * [Numpy](https://numpy.org/) - Library to array calculation
     * [Pandas](https://pandas.pydata.org/) - Library to load and database processing
-    * [sklearn](https://scikit-learn.org/stable/index.html) - Machine learning library
+    * [Python](https://www.python.org/) - Language for Data Science
+    * [Sklearn](https://scikit-learn.org/stable/index.html) - Machine learning library
 
 * ### API and Mobile
     * [Typescript](https://devdocs.io/typescript/) - Main Language
