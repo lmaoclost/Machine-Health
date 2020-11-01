@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Machine Learning
 This Project was built with Anaconda 2020-02 which is machine learning toolkit. It was installed using [Python](https://www.python.org/) Version Management called [pyenv](https://github.com/pyenv/pyenv).
 
-The used database was selected from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) which is a Indian database about diabetes. It was used Gradient Bossting model for classification. If you wish to see the process to build the machine model algorithm you can access at [Kaggle](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90) or [Github](https://github.com/juniorcl/data-science-projects/tree/master/Classification/Diabetes%20Prediction%20-%20Grandient%20Boosting%20Classifier).
+The used database was selected from [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database) which is a Indian database about diabetes. It was used Gradient Bossting model for classification. If you wish to see the process to build the machine model algorithm you can access at [Kaggle](https://www.kaggle.com/juniorcl/diabetesclassification-tunedgradientboosting-90) or [Github](https://github.com/juniorcl/diabetes-prediction).
 
 
 
